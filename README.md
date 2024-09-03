@@ -4,5 +4,9 @@ meu nome é francisca
 
 estou estudando na alura
 estou me desenvolvendo na linguagem de javascript
-ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+ultilizo esse espaço para minha organização e compartilh
 
+### voce entra em contato comigo 📫
+
+paludettomarcelo@.com
+@marcelopaludetto
